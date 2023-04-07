@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>Hamming_Distance</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+        <PackageId>Hamming-Distance</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Osman Kartal</Authors>
+        <Company>Github</Company>
+        <RepositoryUrl>https://github.com/okadirkartal/hamming-distance</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
